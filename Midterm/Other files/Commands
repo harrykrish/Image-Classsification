@@ -1,0 +1,3 @@
+ipython notebook --no-browser --port=7777
+ssh -N -f -L localhost:7777:localhost:7777 -i Downloads/keypair1.pem ubuntu@ec2-54-193-20-136.us-west-1.compute.amazonaws.com
+
