@@ -66,6 +66,14 @@ This will be useful to create shape files of locations. This project can be furt
 
 Accuracy achieved is <b>79.4%
 
+## Multi class Classification
+
+Classification of Roads, Trees and Building
+
+<img src= "Accuracy2.png">
+
+Accuracy achieved is <b>64.2%
+
 
 ```python
 
